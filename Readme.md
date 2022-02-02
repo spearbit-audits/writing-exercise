@@ -28,4 +28,4 @@ Description of the attack.
 Reference: [Style guide for writing Spearbit reports](https://hackmd.io/@spearbit/S1T63tOqt).
 
 
-*Bonus*: There is simple, yet niche technique to avoid the critical issue by modifying `Implementation.sol`. Bonus point if you can include this in your recommendation. Another bonus point if your recommendation only requires changing a single word in `Implementation.sol`.
+*Bonus*: There is simple, yet niche technique to avoid the critical issue by modifying `Implementation.sol`. Bonus point if you can include this in your recommendation. Another bonus point if your recommendation only requires changing a single word in `Implementation.sol` (and removing two more words).
